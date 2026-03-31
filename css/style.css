@@ -1743,7 +1743,7 @@ video {
 
 .selected-card img {
   width: 100%;
-  min-height: 480px;
+  min-height: 400px;
   aspect-ratio: 1.6;
   object-fit: cover;
   display: block;
